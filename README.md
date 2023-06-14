@@ -1,6 +1,6 @@
 # Hello everyone!
 # `this.getMyself()` -->
-i am ``glowingstone also Dragon740f``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
+i am ``glowingstone124``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragon740f&count_private=true&theme=cobalt&show_icons=true)
 
