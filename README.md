@@ -2,7 +2,7 @@
 # `this.getMyself()` -->
 i am ``glowingstone124``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dragon740f&count_private=true&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
 # `this.getWhatICanDo()` -->
 i started coding in ``Java`` in Grade 4, this is the only coding language i can use, i also learned some basic about ``C++`` and ``python``, but cant coding with them :(
