@@ -6,6 +6,7 @@ i am ``glowingstone124``, a junior high school student in Shanghai. Working on a
 
 # `this.getWhatICanDo()` -->
 i started coding in ``Java`` in Grade 4, this is the only coding language i can use, i also learned some basic about ``C++`` and ``python``, but cant coding with them :(
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ~~i can also code in HTML!!!~~
 # `this.getProjects()` -->
 since 2023/6/14, I only created 1 repo because i dont know what i can do... sorry about that.
