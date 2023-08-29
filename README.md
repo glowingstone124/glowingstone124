@@ -1,3 +1,5 @@
+FIRST THINGS FIRST
+I HATE 🏳️‍🌈 
 # Hello everyone!
 # `this.getMyself()` -->
 i am ``glowingstone124``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
