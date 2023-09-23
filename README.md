@@ -10,12 +10,13 @@ i started coding in ``Java`` in Grade 4, this is the only coding language i can 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 # `this.getProjects()` -->
-since 2023/6/14, I only created 1 repo because i dont know what i can do... sorry about that.
+SpringbootApi
+TinyMSG
 
 - [TinyMSG](https://github.com/Dragon740f/TinyMSG)
 
 # `this.getWorkingProject()` -->
 
 A application for my Minecraft Server, which contains Server Map, Server Status, QQ-bind etc...
-~~maybe release this summer, or never release~~
 
+Springboot-Based Server Api
