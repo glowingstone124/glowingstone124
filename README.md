@@ -16,7 +16,7 @@ SpringbootApi
 TinyMSG
 
 - [TinyMSG](https://github.com/glowingstone/TinyMSG)
-- [EasyClipboard](https://github.com/glowingstone/EasyClipboard)
+- [EasyClipboard](https://github.com/glowingstone/EasyClipBoard)
 # `this.getWorkingProject()` -->
 
 A application for my Minecraft Server, which contains Server Map, Server Status, QQ-bind etc...
