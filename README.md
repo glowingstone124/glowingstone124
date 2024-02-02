@@ -15,8 +15,8 @@ i started coding in ``Java`` in Grade 4, this is the only coding language i can 
 SpringbootApi
 TinyMSG
 
-- [TinyMSG](https://github.com/glowingstone/TinyMSG)
-- [EasyClipboard](https://github.com/glowingstone/EasyClipBoard)
+- [TinyMSG](https://github.com/glowingstone124/TinyMSG)
+- [EasyClipboard](https://github.com/glowingstone124/EasyClipBoard)
 # `this.getWorkingProject()` -->
 
 A application for my Minecraft Server, which contains Server Map, Server Status, QQ-bind etc...
