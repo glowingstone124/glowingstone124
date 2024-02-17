@@ -1,8 +1,6 @@
 # Hello everyone!
 # `this.getMyself()` -->
-my email: hanserofficial@outlook.com
-
-I am against any form of LGBT behavior. SAY NO TO 🏳️‍🌈 
+my email: hanserofficial@outlook.com 
 
 i am ``glowingstone124``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
 
