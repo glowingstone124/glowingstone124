@@ -15,7 +15,7 @@ I only recognize the two biological genders of Male/Female and the corresponding
 # `this.getMyself()` -->
 my email: hanserofficial@outlook.com 
 
-i am ``glowingstone124``, a junior high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
+i am ``glowingstone124``, a high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
@@ -27,11 +27,4 @@ i started coding in ``Java`` in Grade 4, this is the only coding language i can 
 # `this.getProjects()` -->
 SpringbootApi
 TinyMSG
-
-- [TinyMSG](https://github.com/glowingstone124/TinyMSG)
-- [EasyClipboard](https://github.com/glowingstone124/EasyClipBoard)
-# `this.getWorkingProject()` -->
-
-A application for my Minecraft Server, which contains Server Map, Server Status, QQ-bind etc...
-
-Springboot-Based Server Api
+and more...
