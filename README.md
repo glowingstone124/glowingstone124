@@ -20,7 +20,7 @@ i am ``glowingstone124``, a high school student in Shanghai. Working on a Minecr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
 # `this.getWhatICanDo()` -->
-i started coding in ``Java`` in Grade 4, this is the only coding language i can use, i also learned some basic about ``C++`` and ``python``, but cant coding with them :( ~~i can also code in HTML!!!~~
+i started coding in ``Java`` in Grade 4 and now studying Kotlin and Rust..., i also learned some basic about ``C++`` and ``python``, but cant coding with them :( ~~i can also code in HTML!!!~~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&layout=donut&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
