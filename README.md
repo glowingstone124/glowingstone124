@@ -27,7 +27,11 @@ i am ``glowingstone124``, a high school student in Shanghai. Working on a Minecr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
 # `this.getWhatICanDo()` -->
-i started coding in ``Java`` in Grade 4 and now studying Kotlin and Rust..., i also learned some basic about ``C++`` and ``python``, but cant coding with them :( ~~i can also code in HTML!!!~~
+Java for 5 years, and 1 year in Kotlin/JVM and KotlinMultiplatform with Compose.
+
+Nearly 1 yr of Rust, 2 years JavaScript & TS but I don't like them at all.
+
+Hate Python.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&size_weight=0.5&count_weight=0.5)
 # `this.getProjects()` -->
 SpringbootApi
