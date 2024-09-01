@@ -14,6 +14,8 @@ Nearly 1 yr of Rust, 2 years JavaScript & TS but I don't like them at all.
 Hate Python.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&size_weight=0.5&count_weight=0.5)
+
+![Top Langs](https://api.githubtrends.io/user/svg/glowingstone124/langs?theme=dark)
 # `this.getProjects()` -->
 SpringbootApi
 TinyMSG
