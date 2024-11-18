@@ -2,7 +2,7 @@
 # `this.getMyself()` -->
 my email: hanserofficial@outlook.com 
 
-i am ``glowingstone124``, a high school student in Shanghai. Working on a Minecraft server called QOriginal, coding something intresting but simple.
+i am ``glowingstone124``, born in 2009, currently studying preparatory course in SUES, and actively looking for a undergraduate degree in NUS UCB and other Universities.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
