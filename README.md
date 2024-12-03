@@ -17,8 +17,8 @@ Hate Python.
 
 ![Top Langs](https://api.githubtrends.io/user/svg/glowingstone124/langs?theme=dark)
 # `My Projects` -->
-Scibot ![Scibot](https://scibot.glowingstone.cn/)
+Scibot [Scibot](https://scibot.glowingstone.cn/)
 
-Quantum Plugin / QAPI / QCommunity Series ![QCommunity](https://app.qoriginal.vip)
+Quantum Plugin / QAPI / QCommunity Series [QCommunity](https://app.qoriginal.vip)
 
 And other small projects / toys...
