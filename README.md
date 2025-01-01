@@ -5,6 +5,7 @@ my email: hanserofficial@outlook.com
 I am Glowingstone124, born in 2009, currently enrolled in a preparatory course at SUES, and actively seeking an undergraduate degree at NUS, UCB, or other prestigious universities.
 
 I also take on paid projects, including but not limited to the following tech stacks: 
+https://skillicons.dev/icons?i=c,cpp,cs,ktor,kotlin,rust,go,javascript,typescript,java,vscode,idea,clion,webstorm,mysql,redis,postgresql,nginx,vue,react,css,git,linux,docker,vim,debian,dotnet
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
