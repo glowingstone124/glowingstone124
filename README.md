@@ -12,16 +12,15 @@ I also take on paid projects, including but not limited to the following tech st
 # `My Skills` -->
 Java for nearly 6 years, and 2 years in Kotlin/JVM and KotlinMultiplatform with Compose.
 
-Nearly 1 yr of Rust, 2 years JavaScript & TS but I don't like them at all.
+Nearly 2 yr of Rust and C++,
 
-Hate Python.
+Hate Python and JS/TS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&size_weight=0.5&count_weight=0.5)
 
 ![Top Langs](https://api.githubtrends.io/user/svg/glowingstone124/langs?theme=dark)
 # `My Projects` -->
-Scibot [Scibot](https://scibot.glowingstone.cn/)
 
-Quantum Plugin / QAPI / QCommunity Series [QCommunity](https://app.qoriginal.vip)
+![Mohist](https://github.com/MohistMC/Mohist/)
 
-And other small projects / toys...
+And a lot of small projects, toys that you can see in my repos...
