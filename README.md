@@ -21,6 +21,6 @@ Hate Python and JS/TS.
 ![Top Langs](https://api.githubtrends.io/user/svg/glowingstone124/langs?theme=dark)
 # `My Projects` -->
 
-![Mohist](https://github.com/MohistMC/Mohist/)
+![Taiyitist](https://github.com/Taiyitist/Taiyitist)
 
 And a lot of small projects, toys that you can see in my repos...
