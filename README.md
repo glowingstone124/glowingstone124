@@ -9,6 +9,10 @@ I also take on paid projects, including but not limited to the following tech st
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
 
+I am also running a Minecraft Server called [Quantum Original](https://qoriginal.vip)
+
+![QO Profile](https://app.qoriginal.vip/card/glowingstone124)
+
 # `My Skills` -->
 Java for nearly 6 years, and 2 years in Kotlin/JVM and KotlinMultiplatform with Compose.
 
