@@ -1,25 +1,37 @@
-# Hello everyone!
-# `this.getMyself()` -->
-my email: hanserofficial@outlook.com 
+# Glowingstone
+---
+### Overview
+I am a developer focused on JVM, distributed web architectures/services, and system-level programming. My work revolves around optimizing and modifying bytecode and exploring the interaction between high-level software components and underlying hardware.
 
-I am Glowingstone124, born in 2009.
+### Technical Specification
+- **Programming:** `Java`,`Kotlin`,`C`, `Rust`, `TS/JS`, `GO`
+- **Tools & Infrastructure:** `Linux`, `Git`, `LaTeX`, `Docker`
+- **Core Competencies:** Algorithm Design, Systems Programming
 
-I also take on paid projects, including but not limited to the following tech stacks: 
-![Tech Stacks](https://skillicons.dev/icons?i=c,cpp,cs,ktor,kotlin,rust,go,javascript,typescript,java,vscode,idea,clion,webstorm,mysql,redis,postgresql,nginx,vue,react,css,git,linux,docker,vim,debian,dotnet)
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glowingstone124&count_private=true&theme=cobalt&show_icons=true)
+### Selected Projects
 
-I am also running a Minecraft Server called [Quantum Original](https://qoriginal.vip)
+#### [lampvm](https://github.com/glowingstone124/lamp-vm)
+**Focus**: Design and implementation of a custom CISC-based Virtual Machine.
 
-![QO Profile](https://app.qoriginal.vip/card/glowingstone124)
+Key Features:
 
-# `My Skills` -->
-Java for nearly 6 years, and 2 years in Kotlin/JVM and KotlinMultiplatform with Compose.
+- Architecture: Implemented a robust 16/32-bit register set and a comprehensive instruction decoder for arithmetic, logical, and control-flow operations.
 
-Nearly 2 yr of Rust and C++,
+- Memory Architecture: Developed a simulated linear address space with support for memory-mapped I/O (MMIO) and stack management.
 
-Hate Python and JS/TS.
+- System Integrity: Ensures architectural state fidelity by strictly adhering to the instruction-set specifications and handling exception interrupts.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glowingstone124&size_weight=0.5&count_weight=0.5)
+Tech Stack: C,Rust
+#### [QAPI](https://github.com/glowingstone124/QAPI3)
+-   **Focus:** A distributed service platform for my minecraft server. 
+-   **Contribution:** Provides a framework and tools to managing servers and proxies.
+-   **Status:** Stable / Maintenance mode.
+-   **Stack:** Kotlin, Java, Springboot
 
-And a lot of small projects, toys that you can see in my repos...
+---
+
+### Links
+- **Email:** hanserofficial@outlook.com
+- **Website:** glowingstone.cn
